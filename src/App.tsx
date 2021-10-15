@@ -1,6 +1,6 @@
 import React from 'react';
-import {SafeAreaView} from 'react-native';
-import {ThemeProvider} from 'react-native-magnus';
+import { SafeAreaView } from 'react-native';
+import { ThemeProvider } from 'react-native-magnus';
 
 const theme = {};
 
